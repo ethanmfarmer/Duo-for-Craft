@@ -1,0 +1,26 @@
+{#
+/**
+ * Duo Athentication plugin for Craft CMS
+ *
+ * Duo Athentication Settings.twig
+ *
+ * @author    Ethan Farmer
+ * @copyright Copyright (c) 2016 Ethan Farmer
+ * @link      http://ethanfarmer.net
+ * @package   DuoAthentication
+ * @since     1.0.0
+ */
+#}
+
+{% import "_includes/forms" as forms %}
+
+{% includeCssResource "duoathentication/css/DuoAthentication_Style.css" %}
+{% includeJsResource "duoathentication/js/DuoAthentication_Script.js" %}
+
+{{ forms.textField({
+    label: 'Some Setting',
+    instructions: 'Enter some setting here.',
+    id: 'someSetting',
+    name: 'someSetting', 
+    value: settings['someSetting']})
+}}

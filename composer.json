@@ -1,0 +1,14 @@
+{
+	"name": "/duoathentication",
+	"description": "Integrate Duo Security&#39;s Two-Factor authentication protocols into your Craft installation.",
+	"type": "craft-plugin",
+	"authors": [
+		{
+			"name": "Ethan Farmer",
+			"homepage": "http://ethanfarmer.net"
+		}
+	],
+	"require": {
+		"composer/installers": "~1.0"
+	}
+}
