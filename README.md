@@ -1,6 +1,6 @@
 # Duo Athentication plugin for Craft CMS
 
-Integrate Duo Security&#39;s Two-Factor authentication protocols into your Craft installation.
+Integrate Duo Security's Two-Factor authentication protocols into your Craft installation.
 
 ![Screenshot](resources/screenshots/plugin_logo.png)
 
@@ -18,20 +18,11 @@ Duo Athentication works on Craft 2.4.x and Craft 2.5.x.
 
 ## Duo Athentication Overview
 
--Insert text here-
-
-## Configuring Duo Athentication
-
--Insert text here-
-
-## Using Duo Athentication
-
--Insert text here-
+This plugin is going to be used to integerate Duo Security's Web SDK with Craft CMS. It is a work in progress.
 
 ## Duo Athentication Roadmap
 
-Some things to do, and ideas for potential features:
-
+Integrate with Duo.
 * Release it
 
 ## Duo Athentication Changelog
@@ -40,4 +31,4 @@ Some things to do, and ideas for potential features:
 
 * Initial release
 
-Brought to you by [Ethan Farmer](http://ethanfarmer.net)
+Brought to you by Ethan Farmer and Joe Morrill.
