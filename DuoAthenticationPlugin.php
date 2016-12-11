@@ -14,8 +14,8 @@
  * https://craftcms.com/docs/plugins/introduction
  * --snip--
  *
- * @author    Ethan Farmer
- * @copyright Copyright (c) 2016 Ethan Farmer
+ * @author    Ethan Farmer & Joe Morrill
+ * @copyright Copyright (c) 2016 Ethan Farmer & Joe Morrill
  * @link      http://ethanfarmer.net
  * @package   DuoAthentication
  * @since     1.0.0
@@ -116,7 +116,7 @@ class DuoAthenticationPlugin extends BasePlugin
      */
     public function getDeveloper()
     {
-        return 'Ethan Farmer';
+        return 'Ethan Farmer, Joseph Morrill';
     }
 
     /**

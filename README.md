@@ -2,7 +2,7 @@
 
 Integrate Duo Security's Two-Factor authentication protocols into your Craft installation.
 
-![Screenshot](resources/screenshots/plugin_logo.png)
+##![Screenshot](resources/screenshots/plugin_logo.png)
 
 ## Installation
 
